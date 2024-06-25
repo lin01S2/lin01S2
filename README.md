@@ -1,4 +1,4 @@
-## Hi there 👋
+Meu nome é Lindsay, tenho 16 anos, sou aluna e estudante do alura
 
 <!--
 **lin01S2/lin01S2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
